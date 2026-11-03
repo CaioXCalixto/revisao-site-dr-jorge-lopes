@@ -1,0 +1,17 @@
+SITE DO DR. JORGE LOPES - VERSAO PARA REVISAO (nao publicada)
+
+Como ver: abra a pasta e de dois cliques no arquivo index.html (abre no navegador).
+Funciona sem internet, exceto o mapa (carrega do Google ao clicar) e o botao do WhatsApp.
+
+O que conferir:
+1. Atendimento 24h: o texto diz que o WhatsApp atende urgencias 24 horas, inclusive fins de semana e feriados. Isso e verdade?
+2. Atuacao: comarcas da Baixada Fluminense (Nova Iguacu, Duque de Caxias, Sao Joao de Meriti, Belford Roxo, Nilopolis), Niteroi, Sao Goncalo e TRF-2.
+3. Honorarios: texto da pergunta "Quanto custa um advogado criminalista?" no FAQ.
+4. ABACRIM: nome completo da associacao (hoje aparece so a sigla).
+5. E-mail de contato: Dr.JorgeLopes@bol.com.br esta correto?
+6. Endereco, telefone e horario do escritorio.
+7. Politica de Privacidade: frase nova sobre o mapa do Google.
+8. Fotos e logo: aprovar o uso. A placa nas fotos do escritorio diz "Dr. Jorge Junior".
+9. Textos juridicos (guia "O que fazer agora", paginas de area e artigo): conferir a redacao.
+
+Nesta copia, os links para paginas ainda nao criadas (inquerito policial, liberdade provisoria, execucao penal) levam para a secao de areas da pagina inicial.
